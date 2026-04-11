@@ -1,7 +1,12 @@
 ## Hi, I'm Emily!
 
+I'm an undergraduate student at the University of Kansas studying Applied Computing with a Concentration in Biology. 
 
+📫 You can reach me at [emilymessenger@ku.edu](mailto:emilymessenger@ku.edu) or on [LinkedIn](https://www.linkedin.com/in/emily-messenger/).
+🧠 I love the brain! I'm currently researching neonatal rs-fMRI and connectomics.
+🌾 Right now, I'm working out of Lawrence, KS.
 
+Check out my [website](https://emilymessenger.github.io/) to learn more!
 <!--
 **emilymessenger/emilymessenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
