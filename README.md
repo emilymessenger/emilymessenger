@@ -3,7 +3,7 @@
 I'm an undergraduate student at the University of Kansas studying Applied Computing with a Concentration in Biology.
 
 📫 Feel free to email me at [emilymessenger@ku.edu](mailto:emilymessenger@ku.edu) or message me on [LinkedIn](https://www.linkedin.com/in/emily-messenger/).\
-🧠 I love the brain! I'm currently researching neonatal rs-fMRI and connectomics at Children's Mercy.\
+🧠 I love the brain! I'm currently researching neonatal rs-fMRI and connectomics at Children's Mercy.
 
 Check out my [website](https://emilymessenger.github.io/) to learn more!
 <!--
